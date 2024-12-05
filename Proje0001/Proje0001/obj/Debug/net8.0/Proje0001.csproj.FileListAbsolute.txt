@@ -142,3 +142,7 @@ C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Proje0001\Proje0001\
 C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Proje0001\Proje0001\obj\Debug\net8.0\Proje0001.pdb
 C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Proje0001\Proje0001\obj\Debug\net8.0\Proje0001.genruntimeconfig.cache
 C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Proje0001\Proje0001\obj\Debug\net8.0\ref\Proje0001.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Proje0001\Proje0001\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Proje0001\Proje0001\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Proje0001\Proje0001\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Proje0001\Proje0001\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
