@@ -1,6 +1,36 @@
 [
   {
     "ContainingType": "Proje0001.Controllers.UserController",
+    "Method": "Count",
+    "RelativePath": "Count",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proje0001.Controllers.UserController",
+    "Method": "D\u0131st\u0131nct",
+    "RelativePath": "D\u0131st\u0131nct",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proje0001.Controllers.UserController",
+    "Method": "EndWithDisplayName",
+    "RelativePath": "EndWithDisplayName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proje0001.Controllers.UserController",
     "Method": "GetAll",
     "RelativePath": "GetAll",
     "HttpMethod": "GET",
@@ -23,6 +53,36 @@
         "IsRequired": false
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proje0001.Controllers.UserController",
+    "Method": "OrderByUserId",
+    "RelativePath": "OrderByUserId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proje0001.Controllers.UserController",
+    "Method": "StartWithEmail",
+    "RelativePath": "StartWithEmail",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Proje0001.Controllers.UserController",
+    "Method": "WhereInContain",
+    "RelativePath": "WhereInContain",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   }
 ]
