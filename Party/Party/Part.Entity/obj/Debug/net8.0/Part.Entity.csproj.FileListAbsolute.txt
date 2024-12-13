@@ -1,0 +1,12 @@
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Part.Entity\bin\Debug\net8.0\Part.Entity.deps.json
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Part.Entity\bin\Debug\net8.0\Part.Entity.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Part.Entity\bin\Debug\net8.0\Part.Entity.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Part.Entity\obj\Debug\net8.0\Part.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Part.Entity\obj\Debug\net8.0\Part.Entity.AssemblyInfoInputs.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Part.Entity\obj\Debug\net8.0\Part.Entity.AssemblyInfo.cs
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Part.Entity\obj\Debug\net8.0\Part.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Part.Entity\obj\Debug\net8.0\Part.Entity.sourcelink.json
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Part.Entity\obj\Debug\net8.0\Part.Entity.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Part.Entity\obj\Debug\net8.0\refint\Part.Entity.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Part.Entity\obj\Debug\net8.0\Part.Entity.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Part.Entity\obj\Debug\net8.0\ref\Part.Entity.dll

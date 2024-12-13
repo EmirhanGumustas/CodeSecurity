@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Proje0001Fronted/1.0.0": {
+        "runtime": {
+          "Proje0001Fronted.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proje0001Fronted/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

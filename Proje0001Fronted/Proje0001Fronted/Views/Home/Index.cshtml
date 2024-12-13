@@ -1,0 +1,33 @@
+﻿@model User
+
+<h2>Bilgileri Kaydet</h2>
+
+<form method="post" asp-action="SaveData">
+    <div>
+        <label for="email">Email:</label>
+        <input type="text" id="email" asp-for="Email" placeholder="Email adresinizi girin" required />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div>
+        <label for="photoUrl">Photo URL:</label>
+        <input type="text" id="photoUrl" asp-for="PhotoUrl" placeholder="Fotoğraf URL'sini girin" required />
+        <span asp-validation-for="PhotoUrl" class="text-danger"></span>
+    </div>
+    <div>
+        <label for="displayName">Display Name:</label>
+        <input type="text" id="displayName" asp-for="DisplayName" placeholder="Görünen adı girin" required />
+        <span asp-validation-for="DisplayName" class="text-danger"></span>
+    </div>
+    <div>
+        <label for="platform">Platform:</label>
+        <select id="platform" asp-for="Platform" required>
+            <option value="">Seçin...</option>
+            <option value="Facebook">Android</option>
+            <option value="Twitter">İOS</option>
+        </select>
+        <span asp-validation-for="Platform" class="text-danger"></span>
+    </div>
+    <div>
+        <button type="submit">Kaydet</button>
+    </div>
+</form>

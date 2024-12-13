@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\Party\\Party\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{122503C4-7553-4785-ACD2-FD4C78F594A7}|Party.Business\\Party.Business.csproj|c:\\users\\emirhan g\u00FCm\u00FC\u015Fta\u015F\\documents\\github\\codesecurity\\party\\party\\party.business\\concrate\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122503C4-7553-4785-ACD2-FD4C78F594A7}|Party.Business\\Party.Business.csproj|solutionrelative:party.business\\concrate\\participantservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47196CCF-ECEC-42A9-B523-9E572A33CA5C}|Party.Shared\\Party.Shared.csproj|c:\\users\\emirhan g\u00FCm\u00FC\u015Fta\u015F\\documents\\github\\codesecurity\\party\\party\\party.shared\\viewmodel\\participantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47196CCF-ECEC-42A9-B523-9E572A33CA5C}|Party.Shared\\Party.Shared.csproj|solutionrelative:party.shared\\viewmodel\\participantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F74810B-D4EA-469F-BBDA-6EDB1CD272DE}|Part.Entity\\Part.Entity.csproj|c:\\users\\emirhan g\u00FCm\u00FC\u015Fta\u015F\\documents\\github\\codesecurity\\party\\party\\part.entity\\concrate\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F74810B-D4EA-469F-BBDA-6EDB1CD272DE}|Part.Entity\\Part.Entity.csproj|solutionrelative:part.entity\\concrate\\participant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F74810B-D4EA-469F-BBDA-6EDB1CD272DE}|Part.Entity\\Part.Entity.csproj|c:\\users\\emirhan g\u00FCm\u00FC\u015Fta\u015F\\documents\\github\\codesecurity\\party\\party\\part.entity\\concrate\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F74810B-D4EA-469F-BBDA-6EDB1CD272DE}|Part.Entity\\Part.Entity.csproj|solutionrelative:part.entity\\concrate\\invitation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{122503C4-7553-4785-ACD2-FD4C78F594A7}|Party.Business\\Party.Business.csproj|c:\\users\\emirhan g\u00FCm\u00FC\u015Fta\u015F\\documents\\github\\codesecurity\\party\\party\\party.business\\concrate\\invitationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{122503C4-7553-4785-ACD2-FD4C78F594A7}|Party.Business\\Party.Business.csproj|solutionrelative:party.business\\concrate\\invitationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InvitationService.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\Party\\Party\\Party.Business\\Concrate\\InvitationService.cs",
+              "RelativeDocumentMoniker": "Party.Business\\Concrate\\InvitationService.cs",
+              "ToolTip": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\Party\\Party\\Party.Business\\Concrate\\InvitationService.cs",
+              "RelativeToolTip": "Party.Business\\Concrate\\InvitationService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAA5wDMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T13:03:52.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Invitation.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\Party\\Party\\Part.Entity\\Concrate\\Invitation.cs",
+              "RelativeDocumentMoniker": "Part.Entity\\Concrate\\Invitation.cs",
+              "ToolTip": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\Party\\Party\\Part.Entity\\Concrate\\Invitation.cs",
+              "RelativeToolTip": "Part.Entity\\Concrate\\Invitation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:55:40.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Participant.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\Party\\Party\\Part.Entity\\Concrate\\Participant.cs",
+              "RelativeDocumentMoniker": "Part.Entity\\Concrate\\Participant.cs",
+              "ToolTip": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\Party\\Party\\Part.Entity\\Concrate\\Participant.cs",
+              "RelativeToolTip": "Part.Entity\\Concrate\\Participant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:40:05.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ParticipantViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\Party\\Party\\Party.Shared\\ViewModel\\ParticipantViewModel.cs",
+              "RelativeDocumentMoniker": "Party.Shared\\ViewModel\\ParticipantViewModel.cs",
+              "ToolTip": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\Party\\Party\\Party.Shared\\ViewModel\\ParticipantViewModel.cs",
+              "RelativeToolTip": "Party.Shared\\ViewModel\\ParticipantViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:06:31.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ParticipantService.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\Party\\Party\\Party.Business\\Concrate\\ParticipantService.cs",
+              "RelativeDocumentMoniker": "Party.Business\\Concrate\\ParticipantService.cs",
+              "ToolTip": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\Party\\Party\\Party.Business\\Concrate\\ParticipantService.cs",
+              "RelativeToolTip": "Party.Business\\Concrate\\ParticipantService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T12:03:53.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

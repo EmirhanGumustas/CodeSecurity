@@ -1,3 +1,6 @@
+using Microsoft.EntityFrameworkCore;
+using Proje0001.Contexts;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers().AddNewtonsoftJson(options =>
@@ -6,7 +9,7 @@ builder.Services.AddControllers().AddNewtonsoftJson(options =>
        Newtonsoft.Json.ReferenceLoopHandling.Ignore;
 });
 
-
+builder.Services.AddScoped<AppDbContext>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

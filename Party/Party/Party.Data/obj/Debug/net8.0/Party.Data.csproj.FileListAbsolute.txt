@@ -1,0 +1,16 @@
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Party.Data\bin\Debug\net8.0\Party.Data.deps.json
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Party.Data\bin\Debug\net8.0\Party.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Party.Data\bin\Debug\net8.0\Party.Data.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Party.Data\bin\Debug\net8.0\Part.Entity.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Party.Data\bin\Debug\net8.0\Part.Entity.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Party.Data\obj\Debug\net8.0\Party.Data.csproj.AssemblyReference.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Party.Data\obj\Debug\net8.0\Party.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Party.Data\obj\Debug\net8.0\Party.Data.AssemblyInfoInputs.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Party.Data\obj\Debug\net8.0\Party.Data.AssemblyInfo.cs
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Party.Data\obj\Debug\net8.0\Party.Data.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Party.Data\obj\Debug\net8.0\Party.Data.sourcelink.json
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Party.Data\obj\Debug\net8.0\Party.Data.csproj.Up2Date
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Party.Data\obj\Debug\net8.0\Party.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Party.Data\obj\Debug\net8.0\refint\Party.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Party.Data\obj\Debug\net8.0\Party.Data.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\Party\Party\Party.Data\obj\Debug\net8.0\ref\Party.Data.dll
