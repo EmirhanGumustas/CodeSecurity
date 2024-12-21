@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\ECommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6F8EA7A-D720-4DC3-82F3-5E168FBDC0EE}|ECommerce.Business\\ECommerce.Business.csproj|c:\\users\\emirhan g\u00FCm\u00FC\u015Fta\u015F\\documents\\github\\codesecurity\\ecommerce\\ecommerce.business\\concrate\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6F8EA7A-D720-4DC3-82F3-5E168FBDC0EE}|ECommerce.Business\\ECommerce.Business.csproj|solutionrelative:ecommerce.business\\concrate\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD9C00E8-10EE-4E0F-A298-83793965C22B}|ECommers.Data\\ECommers.Data.csproj|c:\\users\\emirhan g\u00FCm\u00FC\u015Fta\u015F\\documents\\github\\codesecurity\\ecommerce\\ecommers.data\\concrate\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD9C00E8-10EE-4E0F-A298-83793965C22B}|ECommers.Data\\ECommers.Data.csproj|solutionrelative:ecommers.data\\concrate\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\ECommerce\\ECommerce.Business\\Concrate\\BookService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Business\\Concrate\\BookService.cs",
+              "ToolTip": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\ECommerce\\ECommerce.Business\\Concrate\\BookService.cs",
+              "RelativeToolTip": "ECommerce.Business\\Concrate\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:11:10.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\ECommerce\\ECommers.Data\\Concrate\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ECommers.Data\\Concrate\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\ECommerce\\ECommers.Data\\Concrate\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "ECommers.Data\\Concrate\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:11:04.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

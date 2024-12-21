@@ -1,0 +1,90 @@
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Data.deps.json
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Data.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Entity.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Shared.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Entity.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Shared.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.csproj.AssemblyReference.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.AssemblyInfoInputs.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.AssemblyInfo.cs
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.sourcelink.json
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.5D546AD0.Up2Date
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\refint\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\12-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ref\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Data.deps.json
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Data.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Entity.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Shared.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Entity.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Shared.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.csproj.AssemblyReference.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.AssemblyInfoInputs.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.AssemblyInfo.cs
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.sourcelink.json
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.5D546AD0.Up2Date
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\refint\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\13-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ref\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Data.deps.json
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Data.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Entity.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Shared.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Entity.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Shared.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.csproj.AssemblyReference.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.AssemblyInfoInputs.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.AssemblyInfo.cs
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.sourcelink.json
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.5D546AD0.Up2Date
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\refint\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\EmirhanGumustas_Dersler\Module10\16-12-2024\ECommerce\ECommers.Data\obj\Debug\net8.0\ref\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Data.deps.json
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Data.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Entity.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Shared.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Entity.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\bin\Debug\net8.0\ECommers.Shared.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.csproj.AssemblyReference.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.AssemblyInfoInputs.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.AssemblyInfo.cs
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.sourcelink.json
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.5D546AD0.Up2Date
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\obj\Debug\net8.0\refint\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\obj\Debug\net8.0\ECommers.Data.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce\ECommers.Data\obj\Debug\net8.0\ref\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\bin\Debug\net8.0\ECommers.Data.deps.json
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\bin\Debug\net8.0\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\bin\Debug\net8.0\ECommers.Data.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\bin\Debug\net8.0\ECommers.Entity.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\bin\Debug\net8.0\ECommers.Shared.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\bin\Debug\net8.0\ECommers.Entity.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\bin\Debug\net8.0\ECommers.Shared.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\obj\Debug\net8.0\ECommers.Data.csproj.AssemblyReference.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\obj\Debug\net8.0\ECommers.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\obj\Debug\net8.0\ECommers.Data.AssemblyInfoInputs.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\obj\Debug\net8.0\ECommers.Data.AssemblyInfo.cs
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\obj\Debug\net8.0\ECommers.Data.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\obj\Debug\net8.0\ECommers.Data.sourcelink.json
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\obj\Debug\net8.0\ECommers.5D546AD0.Up2Date
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\obj\Debug\net8.0\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\obj\Debug\net8.0\refint\ECommers.Data.dll
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\obj\Debug\net8.0\ECommers.Data.pdb
+C:\Users\Emirhan Gümüştaş\Documents\GitHub\CodeSecurity\ECommerce - Kopya\ECommers.Data\obj\Debug\net8.0\ref\ECommers.Data.dll
