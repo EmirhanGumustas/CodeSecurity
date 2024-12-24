@@ -1,0 +1,325 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SpeedBuy.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SpeedBuy.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\css\\bootstrap-responsive.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\css\\bootstrap-responsive.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-responsive.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\css\\font-awesome-ie7.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\css\\font-awesome-ie7.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\css\\font-awesome-ie7.min.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\css\\font-awesome-ie7.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\font\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\font\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\font\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\font\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\font\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\font\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\font\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\font\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\font\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\font\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\less\\bootstrap.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\bootstrap.less"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\less\\extras.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\extras.less"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\less\\font-awesome-ie7.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\font-awesome-ie7.less"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\scss\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\scss\\_extras.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_extras.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\scss\\font-awesome-ie7.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\font-awesome-ie7.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\ico\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\ico\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\a.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\ax.png",
+      "PackagePath": "staticwebassets\\assets\\img\\ax.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\b.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\bootstrap-ecommerce-templates.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\bootstrap-ecommerce-templates.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\bootstrap-ring.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bootstrap-ring.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\bootstrap-template.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bootstrap-template.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\bootstrap-templates.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bootstrap-templates.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\bootstrap_free-ecommerce.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bootstrap_free-ecommerce.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\bootstrappage_shop.png",
+      "PackagePath": "staticwebassets\\assets\\img\\bootstrappage_shop.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\c.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\carousel1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel1.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\carousel3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\carousel3.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\d.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\disc.png",
+      "PackagePath": "staticwebassets\\assets\\img\\disc.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\e.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\f.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\f.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\g.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\g.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\h.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\h.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\i.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\i.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\j.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\j.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\logo-bootstrap-shoping-cart.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo-bootstrap-shoping-cart.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\maestro.png",
+      "PackagePath": "staticwebassets\\assets\\img\\maestro.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\mc.png",
+      "PackagePath": "staticwebassets\\assets\\img\\mc.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\new.png",
+      "PackagePath": "staticwebassets\\assets\\img\\new.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\paypal.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\paypal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\pp.png",
+      "PackagePath": "staticwebassets\\assets\\img\\pp.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\s.png",
+      "PackagePath": "staticwebassets\\assets\\img\\s.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\shop-cart.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\shop-cart.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\shopping-cart-template.PNG",
+      "PackagePath": "staticwebassets\\assets\\img\\shopping-cart-template.PNG"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\img\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\img\\white_leather.png",
+      "PackagePath": "staticwebassets\\assets\\img\\white_leather.png"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\js\\jquery.easing-1.3.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.easing-1.3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\js\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\js\\jquery.scrollTo-1.4.3.1-min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.scrollTo-1.4.3.1-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\js\\shop.js",
+      "PackagePath": "staticwebassets\\assets\\js\\shop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SpeedBuy.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SpeedBuy.props",
+      "PackagePath": "build\\SpeedBuy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SpeedBuy.props",
+      "PackagePath": "buildMultiTargeting\\SpeedBuy.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SpeedBuy.props",
+      "PackagePath": "buildTransitive\\SpeedBuy.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
