@@ -1,7 +1,36 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{119E0A9D-65AD-4645-8AAC-C0064F5FD26B}|SpeedBuy\\SpeedBuy.csproj|c:\\users\\emirhan g\u00FCm\u00FC\u015Fta\u015F\\documents\\github\\codesecurity\\speedbuy\\speedbuy\\speedbuy\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{119E0A9D-65AD-4645-8AAC-C0064F5FD26B}|SpeedBuy\\SpeedBuy.csproj|solutionrelative:speedbuy\\wwwroot\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119E0A9D-65AD-4645-8AAC-C0064F5FD26B}|SpeedBuy\\SpeedBuy.csproj|c:\\users\\emirhan g\u00FCm\u00FC\u015Fta\u015F\\documents\\github\\codesecurity\\speedbuy\\speedbuy\\speedbuy\\views\\shared\\_newproductspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{119E0A9D-65AD-4645-8AAC-C0064F5FD26B}|SpeedBuy\\SpeedBuy.csproj|solutionrelative:speedbuy\\views\\shared\\_newproductspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119E0A9D-65AD-4645-8AAC-C0064F5FD26B}|SpeedBuy\\SpeedBuy.csproj|c:\\users\\emirhan g\u00FCm\u00FC\u015Fta\u015F\\documents\\github\\codesecurity\\speedbuy\\speedbuy\\speedbuy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{119E0A9D-65AD-4645-8AAC-C0064F5FD26B}|SpeedBuy\\SpeedBuy.csproj|solutionrelative:speedbuy\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119E0A9D-65AD-4645-8AAC-C0064F5FD26B}|SpeedBuy\\SpeedBuy.csproj|c:\\users\\emirhan g\u00FCm\u00FC\u015Fta\u015F\\documents\\github\\codesecurity\\speedbuy\\speedbuy\\speedbuy\\views\\shared\\_lowerheaderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{119E0A9D-65AD-4645-8AAC-C0064F5FD26B}|SpeedBuy\\SpeedBuy.csproj|solutionrelative:speedbuy\\views\\shared\\_lowerheaderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119E0A9D-65AD-4645-8AAC-C0064F5FD26B}|SpeedBuy\\SpeedBuy.csproj|c:\\users\\emirhan g\u00FCm\u00FC\u015Fta\u015F\\documents\\github\\codesecurity\\speedbuy\\speedbuy\\speedbuy\\views\\shared\\_featuredproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{119E0A9D-65AD-4645-8AAC-C0064F5FD26B}|SpeedBuy\\SpeedBuy.csproj|solutionrelative:speedbuy\\views\\shared\\_featuredproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119E0A9D-65AD-4645-8AAC-C0064F5FD26B}|SpeedBuy\\SpeedBuy.csproj|c:\\users\\emirhan g\u00FCm\u00FC\u015Fta\u015F\\documents\\github\\codesecurity\\speedbuy\\speedbuy\\speedbuy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{119E0A9D-65AD-4645-8AAC-C0064F5FD26B}|SpeedBuy\\SpeedBuy.csproj|solutionrelative:speedbuy\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{119E0A9D-65AD-4645-8AAC-C0064F5FD26B}|SpeedBuy\\SpeedBuy.csproj|c:\\users\\emirhan g\u00FCm\u00FC\u015Fta\u015F\\documents\\github\\codesecurity\\speedbuy\\speedbuy\\speedbuy\\views\\shared\\_upperheaderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{119E0A9D-65AD-4645-8AAC-C0064F5FD26B}|SpeedBuy\\SpeedBuy.csproj|solutionrelative:speedbuy\\views\\shared\\_upperheaderpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,99 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "SpeedBuy\\wwwroot\\assets\\css\\style.css",
+              "ToolTip": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\css\\style.css",
+              "RelativeToolTip": "SpeedBuy\\wwwroot\\assets\\css\\style.css",
+              "ViewState": "AgIAAEcAAAAAAAAAAAApwFkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-27T06:59:59.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_NewProductsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\Views\\Shared\\_NewProductsPartial.cshtml",
+              "RelativeDocumentMoniker": "SpeedBuy\\Views\\Shared\\_NewProductsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\Views\\Shared\\_NewProductsPartial.cshtml",
+              "RelativeToolTip": "SpeedBuy\\Views\\Shared\\_NewProductsPartial.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAcwEYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-27T06:58:14.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_FeaturedProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\Views\\Shared\\_FeaturedProducts.cshtml",
+              "RelativeDocumentMoniker": "SpeedBuy\\Views\\Shared\\_FeaturedProducts.cshtml",
+              "ToolTip": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\Views\\Shared\\_FeaturedProducts.cshtml",
+              "RelativeToolTip": "SpeedBuy\\Views\\Shared\\_FeaturedProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T22:48:38.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SpeedBuy\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SpeedBuy\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T22:48:28.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_UpperHeaderPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\Views\\Shared\\_UpperHeaderPartial.cshtml",
+              "RelativeDocumentMoniker": "SpeedBuy\\Views\\Shared\\_UpperHeaderPartial.cshtml",
+              "ToolTip": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\Views\\Shared\\_UpperHeaderPartial.cshtml",
+              "RelativeToolTip": "SpeedBuy\\Views\\Shared\\_UpperHeaderPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T22:48:07.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LowerHeaderPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\Views\\Shared\\_LowerHeaderPartial.cshtml",
+              "RelativeDocumentMoniker": "SpeedBuy\\Views\\Shared\\_LowerHeaderPartial.cshtml",
+              "ToolTip": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\Views\\Shared\\_LowerHeaderPartial.cshtml",
+              "RelativeToolTip": "SpeedBuy\\Views\\Shared\\_LowerHeaderPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T22:47:40.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SpeedBuy\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emirhan G\u00FCm\u00FC\u015Fta\u015F\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SpeedBuy\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAcwEMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-26T22:40:04.193Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "g7sVpTjihi3QxUmGoi4NrV2LPr6kchZQChWjNnB5zE0=",
+  "Hash": "on7CEr49Aq4VG3cHJzIw4sYDCSUgef0HG5Dz/fkc/Kk=",
   "Source": "SpeedBuy",
   "BasePath": "_content/SpeedBuy",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap-responsive.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\css\\style.css",
+      "SourceId": "SpeedBuy",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\",
+      "BasePath": "_content/SpeedBuy",
+      "RelativePath": "assets/css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
     },
     {
       "Identity": "C:\\Users\\Emirhan Gümüştaş\\Documents\\GitHub\\CodeSecurity\\SpeedBuy\\SpeedBuy\\SpeedBuy\\wwwroot\\assets\\font-awesome\\css\\font-awesome.css",
