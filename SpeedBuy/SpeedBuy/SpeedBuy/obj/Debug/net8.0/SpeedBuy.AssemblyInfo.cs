@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpeedBuy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+278eebaad01a32273bb148204ccd18ba521d250a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b3f21dd73de0d58f542ef4e9b1799493517faa8")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpeedBuy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpeedBuy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

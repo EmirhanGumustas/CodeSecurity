@@ -17,7 +17,7 @@
                 <li> <a class="totalInCart" href="cart.html"><strong>Total Amount  <span class="badge badge-warning pull-right" style="line-height:18px;">$448.42</span></strong></a></li>
             </ul>
         </div>
-
+            
         <div class="well well-small alert alert-warning cntr">
             <h2>50% Discount</h2>
             <p>
@@ -62,6 +62,7 @@
         </ul>
 
     </div>
+
     <div class="span9">
         <div class="well np">
             <div id="myCarousel" class="carousel slide homCar">
@@ -98,4 +99,10 @@
                 <a class="left carousel-control" href="#myCarousel" data-slide="prev">&lsaquo;</a>
                 <a class="right carousel-control" href="#myCarousel" data-slide="next">&rsaquo;</a>
             </div>
+            @await Html.PartialAsync("_NewProductsPartial")
+            @await Html.PartialAsync("_FeaturedProducts")
+
         </div>
+    </div>
+</div>
+
